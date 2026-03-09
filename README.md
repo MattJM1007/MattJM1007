@@ -4,6 +4,7 @@ Frontend developer focused on transforming great designs into excellent user
 experiences through well-written, maintainable code.
 
 [matthewmiguel.com](https://matthewmiguel.com)
+
 [LinkedIn](https://www.linkedin.com/in/matthewmiguel/)
 
 ## Tech Stack
