@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Matthew!
 
-<!--
-**MattJM1007/MattJM1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer focused on transforming great designs into excellent user 
+experiences through well-written, maintainable code.
 
-Here are some ideas to get you started:
+[matthewmiguel.com](https://matthewmiguel.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+HTML · CSS · JavaScript · React · Astro · Git
+
+## Projects
+
+| Project | Tech | Live |
+|---|---|---|
+| Weather Now App | React, CSS, Open-Meteo API, Geolocation API | [Demo](https://mattjm1007.github.io/weather-app/) |
+| Scoot Multi-Page Site | HTML, CSS, JavaScript | [Demo](https://mattjm1007.github.io/scoot-website/) |
+| React Contact Form | React, CSS, Constraint Validation API | [Demo](https://mattjm1007.github.io/react-contact-form-component/) |
+| Password Generator | HTML, CSS, JavaScript | [Demo](https://mattjm1007.github.io/Password-Generator-App/) |
+| Frontend Quiz App | HTML, CSS, JavaScrip
