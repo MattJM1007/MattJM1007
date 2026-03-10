@@ -1,11 +1,10 @@
 # Hi, I'm Matthew!
 
-Frontend developer focused on transforming great designs into excellent user 
-experiences through well-written, maintainable code.
+Welcome to my GitHub profile. Here you'll find my frontend projects and work:
 
-[matthewmiguel.com](https://matthewmiguel.com)
+Portfolio: [matthewmiguel.com](https://matthewmiguel.com)
 
-[LinkedIn](https://www.linkedin.com/in/matthewmiguel/)
+LinkedIn: [linkedin.com/in/matthewmiguel/](https://www.linkedin.com/in/matthewmiguel/)
 
 ## Tech Stack
 
