@@ -14,8 +14,8 @@ HTML · CSS · JavaScript · React · Astro · Git
 
 | Project | Tech | Live |
 |---|---|---|
-| Weather Now App | React, CSS, Open-Meteo API, Geolocation API | [Demo](https://mattjm1007.github.io/weather-app/) |
-| Scoot Multi-Page Site | HTML, CSS, JavaScript | [Demo](https://mattjm1007.github.io/scoot-website/) |
-| React Contact Form | React, CSS, Constraint Validation API | [Demo](https://mattjm1007.github.io/react-contact-form-component/) |
-| Password Generator | HTML, CSS, JavaScript | [Demo](https://mattjm1007.github.io/Password-Generator-App/) |
-| Frontend Quiz App | HTML, CSS, JavaScrip | [Demo](https://mattjm1007.github.io/Frontend-Quiz-App/) |
+| Weather Now App | React, CSS, Open-Meteo API, Geolocation API | [Demo](https://matt-miguel.github.io/weather-app/) |
+| Scoot Multi-Page Site | HTML, CSS, JavaScript | [Demo](https://matt-miguel.github.io/scoot-website/) |
+| React Contact Form | React, CSS, Constraint Validation API | [Demo](https://matt-miguel.github.io/react-contact-form-component/) |
+| Password Generator | HTML, CSS, JavaScript | [Demo](https://matt-miguel.github.io/Password-Generator-App/) |
+| Frontend Quiz App | HTML, CSS, JavaScrip | [Demo](https://matt-miguel.github.io/Frontend-Quiz-App/) |
